@@ -21,14 +21,16 @@ A IA busca as respostas diretamente nos PDFs carregados, permitindo consultas ac
 
 ## 📸 Prints
 - Tela do upload dos PDFs.
+    - ![Texto Alternativo](https://github.com/LuiZzz-Menezes/chatbot-pdf-azure-foundry/blob/ae07e237bb45938802ed166ab445e2b7d057481d/images/Upload%20pdfs.png)
 - Tela do Chat respondendo perguntas.
-- Tela de deployment.
-
-## 🧩 Estrutura
-inputs/
-
-└── exemplo.txt
+    - ![Texto Alternativo](https://github.com/LuiZzz-Menezes/chatbot-pdf-azure-foundry/blob/ae07e237bb45938802ed166ab445e2b7d057481d/images/chatbot.png)
+- Tela de deployment do Web Apps
+    - ![Texto Alternativo](https://github.com/LuiZzz-Menezes/chatbot-pdf-azure-foundry/blob/ae07e237bb45938802ed166ab445e2b7d057481d/images/web%20app.png)
+- Tela do Playground
+    - ![Texto Alternativo](https://github.com/LuiZzz-Menezes/chatbot-pdf-azure-foundry/blob/ae07e237bb45938802ed166ab445e2b7d057481d/images/Playground.png)
+- Tela do Data e Index
+    - ![Texto Alternativo](https://github.com/LuiZzz-Menezes/chatbot-pdf-azure-foundry/blob/main/images/Data%20e%20Index.png)
 
 ## 🌐 Demonstração
-[Link do Chat publicado no Azure AI Studio](https://ai.azure.com)
+[Link do Chat publicado no Azure AI Studio](https://chatbot-transformacaodigital-dio.azurewebsites.net/) - Provavelmente desativará visto que não tenho recursos limitados na Azure
 
