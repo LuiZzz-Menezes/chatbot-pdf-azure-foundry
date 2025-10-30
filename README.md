@@ -32,5 +32,5 @@ A IA busca as respostas diretamente nos PDFs carregados, permitindo consultas ac
     - ![Texto Alternativo](https://github.com/LuiZzz-Menezes/chatbot-pdf-azure-foundry/blob/main/images/Data%20e%20Index.png)
 
 ## 🌐 Demonstração
-[Link do Chat publicado no Azure AI Studio](https://chatbot-transformacaodigital-dio.azurewebsites.net/) - Provavelmente desativará visto que não tenho recursos limitados na Azure
+[Link do Chat publicado no Azure AI Studio](https://chatbot-transformacaodigital-dio.azurewebsites.net/) - Provavelmente desativará visto que tenho recursos limitados na Azure
 
